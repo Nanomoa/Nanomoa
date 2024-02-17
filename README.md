@@ -2,10 +2,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; ### Hi 👋, I'm Nanomoa
 
-&nbsp;&nbsp;&nbsp;&nbsp; - 🔭 I’m currently working on [CozeDiscord](https://github.com/Nanomoa/CozeDiscord) and [NanoNote](https://github.com/Nanomoa/NanoNote)
-&nbsp;&nbsp;&nbsp;&nbsp; - 🌱 I’m currently learning *Tauri*
-&nbsp;&nbsp;&nbsp;&nbsp; - 📝 I regularly write articles on [Zhihu](https://www.zhihu.com/people/Nanomoa)
-&nbsp;&nbsp;&nbsp;&nbsp; - 👨‍💻 I've been coding for [![wakatime](https://wakatime.com/badge/user/b4de30c9-5d88-4ca4-9605-65bb4f7b5ebc.svg)](https://wakatime.com/@b4de30c9-5d88-4ca4-9605-65bb4f7b5ebc)
+&nbsp;&nbsp;&nbsp;&nbsp; <p> - 🔭 I’m currently working on [CozeDiscord](https://github.com/Nanomoa/CozeDiscord) and [NanoNote](https://github.com/Nanomoa/NanoNote) </p>
+&nbsp;&nbsp;&nbsp;&nbsp; <p> - 🌱 I’m currently learning *Tauri* </p>
+&nbsp;&nbsp;&nbsp;&nbsp; <p> - 📝 I regularly write articles on [Zhihu](https://www.zhihu.com/people/Nanomoa) </p>
+&nbsp;&nbsp;&nbsp;&nbsp; <p> - 👨‍💻 I've been coding for [![wakatime](https://wakatime.com/badge/user/b4de30c9-5d88-4ca4-9605-65bb4f7b5ebc.svg)](https://wakatime.com/@b4de30c9-5d88-4ca4-9605-65bb4f7b5ebc) </p>
 
 <br/>
 <br/>
