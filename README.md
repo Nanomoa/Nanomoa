@@ -6,7 +6,7 @@
 
 ### Latest projects
 
-[![CozeDiscord](https://github-readme-stats.vercel.app/api/pin/?username=Nanomoa&repo=CozeDiscord)](https://github.com/Nanomoa/CozeDiscord) &nbsp;
+[![CozeDiscord](https://github-readme-stats.vercel.app/api/pin/?username=Nanomoa&repo=CozeDiscord)](https://github.com/Nanomoa/CozeDiscord) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![NanoNote](https://github-readme-stats.vercel.app/api/pin/?username=Nanomoa&repo=NanoNote)](https://github.com/Nanomoa/NanoNote)
 
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=Nanomoa&show_icons=true" />
