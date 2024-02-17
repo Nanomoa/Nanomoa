@@ -3,3 +3,4 @@
 ### Hi 👋, I'm Nanomoa
 
 - 🔭 I’m currently working on [CozeDiscord](https://github.com/Nanomoa/CozeDiscord) and [NanoNote](https://github.com/Nanomoa/NanoNote)
+- 🌱 I’m currently learning *Tauri*
