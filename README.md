@@ -1,4 +1,4 @@
-<div>
+
     <div class="float: left;width: 50%;height: 100%;">
         - 👋 Hi, I’m @Nanomoa
         - 👀 I’m interested in ...
@@ -11,7 +11,6 @@
     <div style="float: right;width: 50%;height: 100%;">
         <img align="right" src="https://github-readme-stats.vercel.app/api?username=Nanomoa&show_icons=true">
     </div>
-</div>
 
 
 
