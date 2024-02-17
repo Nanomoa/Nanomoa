@@ -1,6 +1,7 @@
 
 <div>
-  
+  <p>
+    
   - 👋 Hi, I’m @Nanomoa
   - 👀 I’m interested in ...
   - 🌱 I’m currently learning ...
@@ -10,6 +11,7 @@
   - ⚡ Fun fact: ...
   
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Nanomoa&show_icons=true">
+  </p>
 </div>
 
 
