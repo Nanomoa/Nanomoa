@@ -1,5 +1,4 @@
 <img align="left" alt="GIF" height="200px" src="./coding.webp" />
-<hr>
   
 ### Hi 👋, I'm Nanomoa
 
