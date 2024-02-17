@@ -6,4 +6,5 @@
 
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=Nanomoa&show_icons=true" />
 
-
+### Recent projects
+[![CozeDiscord](https://github-readme-stats.vercel.app/api/pin/?username=Nanomoa&repo=CozeDiscord)](https://github.com/Nanomoa/CozeDiscord)
