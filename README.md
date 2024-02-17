@@ -1,6 +1,6 @@
 <img align="left" alt="GIF" height="200px" src="./coding.webp" />
 
-### Hi 👋, I'm Nanomoa
+### Hi 👋, I'm Nanomoa([Send me a message](https://t.me/nanomoa_tg))
 ###### 🔭 I’m currently working on [CozeDiscord](https://github.com/Nanomoa/CozeDiscord) and [NanoNote](https://github.com/Nanomoa/NanoNote)
 ###### 📝 I regularly write articles on [Zhihu](https://www.zhihu.com/people/Nanomoa)
 ###### 👨‍💻 I've been coding for [![wakatime](https://wakatime.com/badge/user/b4de30c9-5d88-4ca4-9605-65bb4f7b5ebc.svg)](https://wakatime.com/@b4de30c9-5d88-4ca4-9605-65bb4f7b5ebc)
