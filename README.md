@@ -9,13 +9,13 @@
 <table>
   <tr>
     <td>
-        - 👋 Hi, I’m @Nanomoa
-        - 👀 I’m interested in ...
-        - 🌱 I’m currently learning ...
-        - 💞️ I’m looking to collaborate on ...
-        - 📫 How to reach me ...
-        - 😄 Pronouns: ...
-        - ⚡ Fun fact: ...
+        <p> - 👋 Hi, I’m @Nanomoa </p>
+        <p> - 👀 I’m interested in ... </p>
+        <p> - 🌱 I’m currently learning ... </p>
+        <p> - 💞️ I’m looking to collaborate on ... </p>
+        <p> - 📫 How to reach me ... </p>
+        <p> - 😄 Pronouns: ... </p>
+        <p> - ⚡ Fun fact: ... </p>
     </td>
     <td>
         <img src="https://github-readme-stats.vercel.app/api?username=Nanomoa&show_icons=true">
