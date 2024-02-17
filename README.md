@@ -1,5 +1,5 @@
 <div style="display: flex; height:100%">
-    <div class="left">
+    <div class="float: left;width: 50%;height: 100%;">
         - 👋 Hi, I’m @Nanomoa
         - 👀 I’m interested in ...
         - 🌱 I’m currently learning ...
@@ -8,7 +8,7 @@
         - 😄 Pronouns: ...
         - ⚡ Fun fact: ...
     </div>
-    <div class="right">
+    <div style="float: right;width: 50%;height: 100%;">
         <img align="right" src="https://github-readme-stats.vercel.app/api?username=Nanomoa&show_icons=true">
     </div>
 </div>
