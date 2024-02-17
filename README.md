@@ -6,7 +6,6 @@
 ###### 👨‍💻 I've been coding for [![wakatime](https://wakatime.com/badge/user/b4de30c9-5d88-4ca4-9605-65bb4f7b5ebc.svg)](https://wakatime.com/@b4de30c9-5d88-4ca4-9605-65bb4f7b5ebc)
 
 <hr>
-<br/>
 
 ### # Tech Stack
 
