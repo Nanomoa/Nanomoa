@@ -6,7 +6,7 @@
     
 </div>
 
-<table frame=void>
+<table frame="void">
   <tr>
     <td>
         <p> - 👋 Hi, I’m @Nanomoa </p>
