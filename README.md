@@ -11,5 +11,5 @@
 
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=Nanomoa&show_icons=true" />
 
-### The language I use
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanomoa&layout=compact)](https://github.com/Nanomoa)
