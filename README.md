@@ -1,4 +1,4 @@
-<div style="display: flex; height:100%">
+<div>
     <div class="float: left;width: 50%;height: 100%;">
         - 👋 Hi, I’m @Nanomoa
         - 👀 I’m interested in ...
