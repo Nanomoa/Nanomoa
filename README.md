@@ -1,6 +1,5 @@
 <img align="left" alt="GIF" height="200px" src="./coding.webp" />
 <hr>
-<div>
   
 ### Hi 👋, I'm Nanomoa
 
@@ -9,7 +8,6 @@
 - 📝 I regularly write articles on [Zhihu](https://www.zhihu.com/people/Nanomoa)
 - 👨‍💻 I've been coding for [![wakatime](https://wakatime.com/badge/user/b4de30c9-5d88-4ca4-9605-65bb4f7b5ebc.svg)](https://wakatime.com/@b4de30c9-5d88-4ca4-9605-65bb4f7b5ebc)
 
-<div>
 <hr>
 
 <br/>
