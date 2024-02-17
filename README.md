@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=Nanomoa&show_icons=true" />
+<img align="right" alt="GIF" src="./coding.webp" />
 
 ### Hi 👋, I'm Nanomoa
 
