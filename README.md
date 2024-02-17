@@ -2,10 +2,10 @@
 
 ### Hi 👋, I'm Nanomoa
 
-<p> - 🔭 I’m currently working on [CozeDiscord](https://github.com/Nanomoa/CozeDiscord) and [NanoNote](https://github.com/Nanomoa/NanoNote) </p>
-<p> - 🌱 I’m currently learning *Tauri* </p>
-<p> - 📝 I regularly write articles on [Zhihu](https://www.zhihu.com/people/Nanomoa) </p>
-<p> - 👨‍💻 I've been coding for [![wakatime](https://wakatime.com/badge/user/b4de30c9-5d88-4ca4-9605-65bb4f7b5ebc.svg)](https://wakatime.com/@b4de30c9-5d88-4ca4-9605-65bb4f7b5ebc) </p>
+- 🔭 I’m currently working on [CozeDiscord](https://github.com/Nanomoa/CozeDiscord) and [NanoNote](https://github.com/Nanomoa/NanoNote)
+- 🌱 I’m currently learning *Tauri*
+- 📝 I regularly write articles on [Zhihu](https://www.zhihu.com/people/Nanomoa)
+- 👨‍💻 I've been coding for [![wakatime](https://wakatime.com/badge/user/b4de30c9-5d88-4ca4-9605-65bb4f7b5ebc.svg)](https://wakatime.com/@b4de30c9-5d88-4ca4-9605-65bb4f7b5ebc)
 
 <br/>
 <br/>
