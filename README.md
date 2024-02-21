@@ -27,6 +27,7 @@
 
 ### # Latest Projects
 
+[![CozeDiscordFrontend](https://github-readme-stats.vercel.app/api/pin/?username=Nanomoa&repo=CozeDiscordFrontend&show_owner=true)](https://github.com/Nanomoa/CozeDiscordFrontend)
 [![CozeDiscord](https://github-readme-stats.vercel.app/api/pin/?username=Nanomoa&repo=CozeDiscord&show_owner=true)](https://github.com/Nanomoa/CozeDiscord) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![NanoNote](https://github-readme-stats.vercel.app/api/pin/?username=Nanomoa&repo=NanoNote&show_owner=true)](https://github.com/Nanomoa/NanoNote)
 
