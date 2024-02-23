@@ -35,4 +35,4 @@
 
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=Nanomoa&show_icons=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanomoa&hide=css)](https://github.com/Nanomoa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanomoa&hide=css,html)](https://github.com/Nanomoa)
