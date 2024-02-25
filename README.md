@@ -34,8 +34,7 @@
 
 ### Activity
 
-.. image:: https://wakatime.com/share/@Raincy/7a7dca95-b057-49aa-9bfe-8f1a390ce56e.png
-    :target: https://wakatime.com/
+![Nanomoa's Activity](https://wakatime.com/share/@Raincy/7a7dca95-b057-49aa-9bfe-8f1a390ce56e.png)
 
 ### # Others
 
