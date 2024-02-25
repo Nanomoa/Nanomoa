@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Nanomoa([Send me a message](https://t.me/nanomoa_tg))
 
-<img align="left" alt="GIF" height="200px" src="./coding.webp" />
+<img align="left" alt="GIF" height="180px" src="./coding.webp" />
 
 ###### 🔭 I’m currently working on [CozeDiscord](https://github.com/Nanomoa/CozeDiscord) and [NanoNote](https://github.com/Nanomoa/NanoNote)
 ###### 📝 I regularly write articles on [Zhihu](https://www.zhihu.com/people/Nanomoa)
