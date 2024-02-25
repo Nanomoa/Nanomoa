@@ -34,7 +34,7 @@
 
 ### Activity
 
-<img src="https://wakapi.dev/api/activity/chart/Nanomoa.svg" alt="Nanomoa" title="Activity" />
+<figure><embed src="https://wakatime.com/share/@Raincy/b6074e06-f7c6-41cd-b438-fcb10334a684.svg"></embed></figure>
 
 ### # Others
 
