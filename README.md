@@ -33,7 +33,8 @@
 [![NanoNote](https://github-readme-stats.vercel.app/api/pin/?username=Nanomoa&repo=NanoNote&show_owner=true)](https://github.com/Nanomoa/NanoNote)
 
 ### Activity
-![Nanomoa's Activity](https://wakapi.dev/api/activity/chart/Nanomoa.svg)
+
+<img alt="Nanomoa's Activity" src="https://wakapi.dev/api/activity/chart/Nanomoa.svg" />
 
 ### # Others
 
