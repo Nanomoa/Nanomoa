@@ -32,7 +32,7 @@
 [![CozeDiscord](https://github-readme-stats.vercel.app/api/pin/?username=Nanomoa&repo=CozeDiscord&show_owner=true)](https://github.com/Nanomoa/CozeDiscord) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![NanoNote](https://github-readme-stats.vercel.app/api/pin/?username=Nanomoa&repo=NanoNote&show_owner=true)](https://github.com/Nanomoa/NanoNote)
 
-### Coding Activity
+### # Coding Activity
 
 ![Nanomoa's Activity](https://wakatime.com/share/@Raincy/226edc50-74a4-4a46-a144-89d379ddab07.svg)
 
