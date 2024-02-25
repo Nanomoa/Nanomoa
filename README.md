@@ -34,7 +34,8 @@
 
 ### Activity
 
-<figure><embed src="https://wakatime.com/share/@Raincy/b6074e06-f7c6-41cd-b438-fcb10334a684.svg"></embed></figure>
+.. image:: https://wakatime.com/share/@Raincy/7a7dca95-b057-49aa-9bfe-8f1a390ce56e.png
+    :target: https://wakatime.com/
 
 ### # Others
 
